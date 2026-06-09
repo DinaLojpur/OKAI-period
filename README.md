@@ -1,6 +1,6 @@
 # Period House
 
-A project by Dina Lojpur.
+A project by T3 - Women of The Graident.
 
 ## About
 Period House is a creative project currently in development.
