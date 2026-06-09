@@ -1,4 +1,4 @@
-# Period House
+# The Period Pantry
 
 A project by T3 - Women of The Graident.
 
