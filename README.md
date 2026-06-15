@@ -1,6 +1,6 @@
 # OKAI period
 
-A project by T3 - Women of The Graident.
+A project by T3 - Women of The Gradient.
 
 ## About
 
