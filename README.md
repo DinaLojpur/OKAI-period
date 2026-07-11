@@ -1,4 +1,4 @@
-# OKAI period
+# OKAI Period
 
 A project by T3 - Women of The Gradient.
 
@@ -11,13 +11,13 @@ OKAI Period is an AI-driven tool designed to help address one dimension of perio
 
 ## Overview
 
-OKAI-period is a Streamlit-based data visualization application that explores neighbourhood patterns using clustering and geographic analysis. The app allows users to interactively explore neighbourhood clusters, view locations on a map, and gain insights from spatial data.
+OKAI Period is a Streamlit-based data visualization application that explores neighbourhood patterns using clustering and geographic analysis. The app allows users to interactively explore neighbourhood clusters, view locations on a map, and gain insights from spatial data.
 
 The project combines data processing, machine learning outputs, and interactive mapping to make neighbourhood-level information easier to understand and explore.
 
 ## Project Pitch / Demo
 
-Project pitch: https://www.youtube.com/watch?v=JXhfhm-CD6w
+[Project pitch at Demo Day 2026](https://www.youtube.com/watch?v=JXhfhm-CD6w)
 
 Frontend demo:
 
@@ -45,3 +45,7 @@ Run the Streamlit app:
 ```bash
 streamlit run app2.py
 ```
+## Acknowledgements
+"The AI4Good Lab is a 7-week program that equips women and gender diverse people with the skills to build their own machine learning projects. We emphasize mentorship and curiosity-driven learning to prepare our trainees for a career in AI." - [AI4Good Lab](https://www.ai4goodlab.com/)
+
+As trainees of the AI4Good Lab Toronto Cohort of 2026, May was filled with courses, hands-on labs, and inspiring speaker sessions, and in June, we had the opportunity to showcase this project during the Demo Day 2026 held at [Mila - Quebec Artificial Intelligence Institute](https://mila.quebec/en). We want to give a special thanks to our TA [Yahan Zhang](https://www.linkedin.com/in/yahan-zhang-a970a4204/), and our Mentor [Winnie Au](https://www.linkedin.com/in/auwinnie/) for guiding us throughout the project.
