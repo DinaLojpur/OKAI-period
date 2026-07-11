@@ -8,8 +8,6 @@ OKAI Period is an AI-driven tool designed to help address one dimension of perio
 
 ## Overview
 
-## Overview
-
 OKAI-period is a Streamlit-based data visualization application that explores neighbourhood patterns using clustering and geographic analysis. The app allows users to interactively explore neighbourhood clusters, view locations on a map, and gain insights from spatial data.
 
 The project combines data processing, machine learning outputs, and interactive mapping to make neighbourhood-level information easier to understand and explore.
