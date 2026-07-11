@@ -89,7 +89,7 @@ def load_overlay_data(lat, lon, delta=0.03):
 
     # Community Centers & Parks 
     try:
-        cc = pd.read_csv("okai_comm_recs_parks.csv").dropna(subset=['lat', 'lon'])
+        cc = pd.read_csv("clean data/okai_comm_recs_parks.csv").dropna(subset=['lat', 'lon'])
         overlays["comm_recs_parks"] = cc[
             (cc['lat'].between(lat_min, lat_max)) & 
             (cc['lon'].between(lon_min, lon_max))
@@ -99,7 +99,7 @@ def load_overlay_data(lat, lon, delta=0.03):
 
     # Libraries
     try:
-        libraries = pd.read_csv("okai_library.csv").dropna(subset=['lat', 'lon'])
+        libraries = pd.read_csv("clean data/okai_library.csv").dropna(subset=['lat', 'lon'])
         lib_delta = 0.18
         overlays["libraries"] = libraries[
             (libraries['lat'].between(lat - lib_delta, lat + lib_delta)) & 
@@ -110,7 +110,7 @@ def load_overlay_data(lat, lon, delta=0.03):
 
     # TTC Stops
     try:
-        transit = pd.read_csv("ttc_routes.csv").dropna(subset=['stop_lat', 'stop_lon'])
+        transit = pd.read_csv("clean data/TTC_routes.csv").dropna(subset=['stop_lat', 'stop_lon'])
         overlays["transit"] = transit[
             (transit['stop_lat'].between(lat_min, lat_max)) & 
             (transit['stop_lon'].between(lon_min, lon_max))
