@@ -79,7 +79,7 @@ def load_overlay_data(lat, lon, delta=0.03):
 
     # Washrooms 
     try:
-        washrooms = pd.read_csv("washrooms.csv").dropna(subset=['lat', 'lon'])
+        washrooms = pd.read_csv("clean data/washrooms.csv").dropna(subset=['lat', 'lon'])
         overlays["washrooms"] = washrooms[
             (washrooms['lat'].between(lat_min, lat_max)) & 
             (washrooms['lon'].between(lon_min, lon_max))
