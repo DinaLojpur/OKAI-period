@@ -1,6 +1,6 @@
 # OKAI Period
 
-A project by T3 - Women of The Gradient.
+A project by T3 - Women of The Gradient (WOG).
 
 ## About
 
@@ -49,3 +49,5 @@ streamlit run app2.py
 "The AI4Good Lab is a 7-week program that equips women and gender diverse people with the skills to build their own machine learning projects. We emphasize mentorship and curiosity-driven learning to prepare our trainees for a career in AI." - [AI4Good Lab](https://www.ai4goodlab.com/)
 
 As trainees of the AI4Good Lab Toronto Cohort of 2026, May was filled with courses, hands-on labs, and inspiring speaker sessions, and in June, we had the opportunity to showcase this project during the Demo Day 2026 held at [Mila - Quebec Artificial Intelligence Institute](https://mila.quebec/en). We want to give a special thanks to our TA [Yahan Zhang](https://www.linkedin.com/in/yahan-zhang-a970a4204/), and our Mentor [Winnie Au](https://www.linkedin.com/in/auwinnie/) for guiding us throughout the project.
+
+WOG Comprised of [Dina Lojpur](https://www.linkedin.com/in/dina-lojpur/), [Mahnoor Butt](https://www.linkedin.com/in/mahnoor-butt1/), [Miracle Effiong](https://www.linkedin.com/in/miracle-effiong-717881233/), and [Rami Rao](https://www.linkedin.com/in/ramirao/)
