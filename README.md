@@ -5,6 +5,9 @@ A project by T3 - Women of The Gradient.
 ## About
 
 OKAI Period is an AI-driven tool designed to help address one dimension of period poverty by identifying communities with the greatest unmet need for accessible and free menstrual products, enabling resources to be distributed more proactively and equitably.
+<p align="center">
+  <img width="800" height="800" alt="OKAIperiod_Logo" src="https://github.com/user-attachments/assets/c771c21c-56c0-4fb9-b968-93cd7ea44eac" />
+</p>
 
 ## Overview
 
