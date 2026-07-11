@@ -26,10 +26,6 @@ Frontend demo:
 
 Clone the repository:
 
-## Installation
-
-Clone the repository:
-
 ```bash
 git clone https://github.com/DinaLojpur/OKAI-period.git
 cd OKAI-period
