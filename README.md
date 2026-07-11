@@ -18,13 +18,26 @@ The project combines data processing, machine learning outputs, and interactive 
 
 ## Project Pitch / Demo
 
-[Project pitch at Demo Day 2026](https://www.youtube.com/watch?v=MUQ0-lp5LX8)
+[Project Pitch at Demo Day 2026](https://www.youtube.com/watch?v=MUQ0-lp5LX8)
 
 [Frontend UI Demo 2026](https://youtu.be/BARbOaBD0ks)
 
 ## Tech Stack
 
-- Frontend: Python, HTML
+- Development Environments:
+  VS Code
+  Google Colab
+  Anaconda3
+
+- Languages & File Formats:
+  Python
+  CSV files
+
+- Libraries & Frameworks:
+  Pandas
+  Seaborn
+  Matplotlib
+
 
 ## Installation
 
