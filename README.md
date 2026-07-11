@@ -14,7 +14,7 @@ OKAI-period is a Streamlit-based data visualization application that explores ne
 
 The project combines data processing, machine learning outputs, and interactive mapping to make neighbourhood-level information easier to understand and explore.
 
-## Project Pitch / Deko
+## Project Pitch / Demo
 
 Project pitch: https://www.youtube.com/watch?v=JXhfhm-CD6w
 
