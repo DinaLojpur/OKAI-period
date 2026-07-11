@@ -64,7 +64,7 @@ st.markdown("""
 
 @st.cache_data
 def load_data():
-    return pd.read_csv("neighbourhood_clusters.csv").dropna(subset=['centroid_lat', 'centroid_lon'])
+    return pd.read_csv("model results/neighbourhood_clusters.csv").dropna(subset=['centroid_lat', 'centroid_lon'])
 
 
 @st.cache_data
