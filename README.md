@@ -18,7 +18,7 @@ The project combines data processing, machine learning outputs, and interactive 
 
 ## Project Pitch / Demo
 
-[Project pitch at Demo Day 2026](https://www.youtube.com/watch?v=JXhfhm-CD6w)
+[Project pitch at Demo Day 2026](https://www.youtube.com/watch?v=MUQ0-lp5LX8)
 
 [Frontend UI Demo 2026](https://youtu.be/BARbOaBD0ks)
 
