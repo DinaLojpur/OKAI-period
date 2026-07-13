@@ -66,4 +66,4 @@ streamlit run app2.py
 
 As trainees of the AI4Good Lab Toronto Cohort of 2026, May was filled with courses, hands-on labs, and inspiring speaker sessions, and in June, we had the opportunity to showcase this project during the Demo Day 2026 held at [Mila - Quebec Artificial Intelligence Institute](https://mila.quebec/en). We want to give a special thanks to our TA [Yahan Zhang](https://www.linkedin.com/in/yahan-zhang-a970a4204/), and our Mentor [Winnie Au](https://www.linkedin.com/in/auwinnie/) for guiding us throughout the project.
 
-WOG Comprised of [Dina Lojpur](https://www.linkedin.com/in/dina-lojpur/), [Mahnoor Butt](https://www.linkedin.com/in/mahnoor-butt1/), [Miracle Effiong](https://www.linkedin.com/in/miracle-effiong-717881233/), and [Rami Rao](https://www.linkedin.com/in/ramirao/)
+WOG comprises of [Dina Lojpur](https://www.linkedin.com/in/dina-lojpur/), [Mahnoor Butt](https://www.linkedin.com/in/mahnoor-butt1/), [Miracle Effiong](https://www.linkedin.com/in/miracle-effiong-717881233/), and [Rami Rao](https://www.linkedin.com/in/ramirao/)
