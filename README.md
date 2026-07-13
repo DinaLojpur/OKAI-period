@@ -1,6 +1,6 @@
 # OKAI Period
 
-A project Women of The Gradient (WOG).
+Made by the Women of The Gradient (WOG).
 
 ## About
 
